@@ -8,7 +8,7 @@
 ![Versión](https://img.shields.io/badge/versión-1.0.0-pink)  
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-cyan)  
 
-> Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
+> Nuestro proyecto es un robot equipado con una garra que por medio de una inteligencia artificial es capaz de recoger y clasificar los residuos encontrados en los cerros de Bogotá, esto se hace con el objetivo de reducir la probabilidad de incendios en estos lugares.
 
 ---
 
