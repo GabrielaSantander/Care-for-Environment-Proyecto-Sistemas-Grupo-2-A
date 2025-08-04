@@ -1,6 +1,7 @@
 # 🐢 Care For Environment
 
-![Imagen de WhatsApp 2025-08-04 a las 10 44 34_954e2109](https://github.com/user-attachments/assets/0da5103e-3454-4514-8f78-fbf09c5abcc3)
+<img width="1168" height="480" alt="image" src="https://github.com/user-attachments/assets/e0ed5ad2-b775-4baa-8520-f9cee13cd846" />
+
 
 
 
@@ -14,11 +15,7 @@
 
 ## 🎯 Objetivo del Proyecto
 
-Explica brevemente el propósito general:
-
-- Qué problema busca resolver
-- A qué público está dirigido
-- Qué lo hace diferente o especial
+Diseñar un prototipo de robot autónomo que recorra los senderos de los cerros orientales de Bogotá, identificando, recolectando y almacenando residuos según su clasificación. Su implementación ayudará a reducir la acumulación de basura, mitigar el riesgo de incendios y contribuir a la conservación del ecosistema, promoviendo una ciudad más limpia y segura para la comunidad. 
 
 ---
 
