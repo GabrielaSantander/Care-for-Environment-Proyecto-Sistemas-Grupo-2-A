@@ -47,7 +47,8 @@ Garra:
 - Teachable Machine
 
 **Otras herramientas:**
-- OneShape/Solid Works (Diseño)
+- OneShape/Solid Works/AutoCAD (Diseño)
+- dfx/RDWorks (Procesos)
 - GitHub/Word (control de versiones)
   
 ---
