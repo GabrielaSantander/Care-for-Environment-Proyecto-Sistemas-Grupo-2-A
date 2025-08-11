@@ -21,43 +21,48 @@ Diseñar un prototipo de robot autónomo que recorra los senderos de los cerros 
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
+🔗 Pagina: [https://teachablemachine.withgoogle.com/models/Hc0lmrAVy](https://teachablemachine.withgoogle.com/models/Hc0lmrAVy)
 
-### 📸 Capturas
+### 📸 Construcción
 
-| Pantalla de Inicio | Vista de Usuario | Panel Admin |
-|--------------------|------------------|-------------|
-|(<img width="302" height="276" alt="image" src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" />
-) | ![Usuario](./assets/usuario.png) | ![Admin](./assets/admin.png) |
+Robot:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a670ca48-f4ae-4c1c-abe8-7b4c1e54a8ef" />
+
+
+Garra: 
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4300d950-c352-4839-8ff4-1608d7dca436" />
+
 
 ---
 
 ## 🧰 Tecnologías Utilizadas
 
-**Frontend:**
-- React / Vue / HTML + CSS + JS  
-- Tailwind CSS / Bootstrap / Material UI
+**Robot y Garra**
+- Programación de Arduino
+- Aplicación realizada en App Inventor
 
-**Backend:**
-- Node.js / Express / Django / Firebase
-
-**Base de datos:**
-- MongoDB / PostgreSQL / Firestore
+**Inteligencia Artificial**
+- Teachable Machine
 
 **Otras herramientas:**
-- Figma / Adobe XD (diseño)
-- Git / GitHub (control de versiones)
-- Netlify / Vercel / Heroku (despliegue)
-
+- OneShape/Solid Works (Diseño)
+- GitHub/Word (control de versiones)
+  
 ---
 
-## ⚙️ Instalación
+## ⚙️ Materiales
 
-### Requisitos previos
+**ROBOT Y GARRA**
+- Arduino
+- Corte Laser
+- Baterias
+- ESP32
+- Driver
+- Motores DC 32
+- Servomotores
 
-- Node.js ≥ 18  
-- Git instalado  
-- Navegador moderno
-
-### Pasos
+**INTELIGENCIA ARTIFICIAL**
+- Camara funcional
+- Navegador
