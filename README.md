@@ -23,6 +23,9 @@ Diseñar un prototipo de robot autónomo que recorra los senderos de los cerros 
 
 🔗 Pagina: [https://teachablemachine.withgoogle.com/models/Hc0lmrAVy](https://teachablemachine.withgoogle.com/models/Hc0lmrAVy)
 
+🔗 Drive con videos del funcionamiento: [https://drive.google.com/drive/folders/1kygynffuBIELyQWdxBNyv3GQxGHv8OLA?usp=sharing](https://drive.google.com/drive/folders/1kygynffuBIELyQWdxBNyv3GQxGHv8OLA?usp=sharing)
+
+
 ### 📸 Construcción
 
 Robot:
