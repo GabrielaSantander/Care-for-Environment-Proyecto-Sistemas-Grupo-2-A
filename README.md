@@ -30,13 +30,15 @@ Diseñar un prototipo de robot autónomo que recorra los senderos de los cerros 
 
 Robot 🤖:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a670ca48-f4ae-4c1c-abe8-7b4c1e54a8ef" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/19c91660-6460-4b4a-8a75-482dac4496fc" />
+
 
 ---
 
 Garra ⚙️: 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4300d950-c352-4839-8ff4-1608d7dca436" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c4d0889a-d8f0-42a5-96ce-2b8f3a7e6704" />
+
 
 ---
 
