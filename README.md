@@ -44,7 +44,8 @@ Garra ⚙️:
 
 App 📱:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6e8ec39e-fd22-4cd9-a9c6-87b67f0c4281" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2cba495c-184f-4c17-851f-c73a999b12c8" />
+
 
 
 ---
