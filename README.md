@@ -54,7 +54,7 @@ App 📱:
 
 **Robot y Garra**
 - Programación de Arduino
-- Aplicación realizada en App Inventor
+- Aplicación realizada en HTML
 
 **Inteligencia Artificial**
 - Teachable Machine
