@@ -32,6 +32,7 @@ Robot 🤖:
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/19c91660-6460-4b4a-8a75-482dac4496fc" />
 
+> Imagen de la ultima versión del robot
 
 ---
 
@@ -39,6 +40,7 @@ Garra ⚙️:
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c4d0889a-d8f0-42a5-96ce-2b8f3a7e6704" />
 
+> Imagen de la ultima versión de la garra
 
 ---
 
@@ -49,7 +51,7 @@ Apps 📱:
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/04db49ca-c3f2-4a93-9ba0-afcdf72bfc50" />
 
-
+> Imagenes de las apps, primera imagen app en pagina web y segunda imagen app independiente
 
 ---
 
